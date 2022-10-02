@@ -1,0 +1,56 @@
+{"0": {
+    "doc": "Contacts",
+    "title": "Contacts",
+    "content": "Email: samvel.arustamyan@gmail.com . ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/contacts/",
+    "relUrl": "/contacts/"
+  },"1": {
+    "doc": "The \"Impossible\" Character",
+    "title": "The “Impossible” Character",
+    "content": "Print “\\” to the console. I.e. your console window should look like this: . Hint 1: Pay attention to the syntax highlighting of the code. Notice something weird? Hint 2: The error message doesn't say much, but maybe there are people online that faced the same problem before? ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/lesson0/homework1.html#the-impossible-character",
+    "relUrl": "/lesson0/homework1.html#the-impossible-character"
+  },"2": {
+    "doc": "The \"Impossible\" Character",
+    "title": "The \"Impossible\" Character",
+    "content": " ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/lesson0/homework1.html",
+    "relUrl": "/lesson0/homework1.html"
+  },"3": {
+    "doc": "Progress Bar",
+    "title": "Progress Bar",
+    "content": "Simulate a progress bar for a hypothetical task consisting of 20 steps. Take the following code as a starting point: . Console.CursorVisible = false; Console.WriteLine(\"Task in progress...\"); Console.BackgroundColor = ConsoleColor.White; Console.Write(\" \"); Thread.Sleep(200); Console.Write(\" \"); . and make the program output look like this: . Hint 1: Each step can be represented by a space (\" \") character printed in the console with a white background. So you need to print 20 spaces. The line Console.BackgroundColor = ConsoleColor.White; changes the background to white. Notice that it doesn't affect the text printed prior to that statement. Hint 2: Notice the Thread.Sleep(200); line above. This is needed to slow down the animation. The 200 represents the number of miliseconds to wait until proceeding to the next statement. You can experiment with that number (or remove the line completly) to see how it affects the output. ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/lesson0/homework2.html",
+    "relUrl": "/lesson0/homework2.html"
+  },"4": {
+    "doc": "Home",
+    "title": "Welcome to the Techolab C# course!",
+    "content": " ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/#welcome-to-the-techolab-c-course",
+    "relUrl": "/#welcome-to-the-techolab-c-course"
+  },"5": {
+    "doc": "Home",
+    "title": "Resources",
+    "content": ". | C# Programming for Absolute Beginners by Radek Vystavěl | Illustrated C# 7 by Daniel Solis | Microsoft Courses. Good place to start is the interactive introductory tutorials | Code for home assignments in located at https://github.com/sarustamyan/technolab-csharp | . ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/#resources",
+    "relUrl": "/#resources"
+  },"6": {
+    "doc": "Home",
+    "title": "Prerequisites",
+    "content": ". | Development Environment . | Download and install Visual Studio Community Edition. Make sure to select the “.NET desktop development” option: . | Use https://dotnetfiddle.net/ whenever VS is not available. | . | Source Control . | Create a Github account. | . | . ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/#prerequisites",
+    "relUrl": "/#prerequisites"
+  },"7": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/",
+    "relUrl": "/"
+  },"8": {
+    "doc": "Lesson 0 - Introduction",
+    "title": "Lesson 0 - Introduction",
+    "content": "Objectives . | Create and run your first console application. Follow the steps in Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2). You can stop at the “Add code to create a calculator” step for now (don’t worry, we’ll get there gradually). | Learn to use Console.WriteLine() with arithmetic and string operations. | Learn how to debug the code. Refer to Tutorial: Learn to debug C# code using Visual Studio for help. | Follow the execution path step by step. | Set a breakpoint. | Get familiar with the “Watch” window. | . | Learn how to fix compilation and runtime errors. | . Home Assignments . | The “Impossible” Character . | Progress Bar . | . ",
+    "url": "https://sarustamyan.github.io//technolab-csharp/lesson0/",
+    "relUrl": "/lesson0/"
+  }
+}
