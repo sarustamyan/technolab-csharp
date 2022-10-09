@@ -14,7 +14,7 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 
 * [C# Programming for Absolute Beginners](https://www.goodreads.com/book/show/58230269-c-programming-for-absolute-beginners) by Radek Vystavěl
 * [Illustrated C# 7](https://www.goodreads.com/book/show/36902257-illustrated-c-7) by Daniel Solis
-* [Microsof Courses](https://dotnet.microsoft.com/en-us/learn/csharp)
+* [Microsoft Courses](https://dotnet.microsoft.com/en-us/learn/csharp)
 
 ## Prerequisites
 
@@ -61,3 +61,27 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 4. Create a repository for class projects and push to github: [https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github). NOTE: use the SSH instead of HTTPS for remote URL.
 
 ## Lesson 2 - Loops
+
+### In Class
+
+1. `while` loops
+  * Enhance the command line spinner
+  * Print all the numbers from 1 to 20
+2. `for` loops
+  * Calculate the sum of all the numbers from 1 to 100
+  
+### Home Assignments
+
+**Coding**
+
+1. Calculate the sum of all the numbers from 1 to 100 that are a multiple of 3
+2. For the given number of iterations `n` calculate approximation of pi using the Leibniz formula: [https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80). *Side quest: watch a video on Newton's formula for pi: [https://www.youtube.com/watch?v=gMlf1ELvRzc](https://www.youtube.com/watch?v=gMlf1ELvRzc) *
+3. Print `true` if the given nubmer is a prime number
+4. Calculate the sum of all the prime numbers between 2 and 100 
+
+**Git**
+
+1. Fork the repository [https://github.com/sarustamyan/technolab-csharp](https://github.com/sarustamyan/technolab-scharp) (see [https://docs.github.com/en/get-started/quickstart/fork-a-repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for help)
+2. Checkout the branch `master`
+3. Edit `docs/index.md` to add yourself to the list of participants under the section "Participants".	
+4. Create a pull request with the changes ([https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork))
