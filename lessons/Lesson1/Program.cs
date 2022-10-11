@@ -11,6 +11,13 @@ else if (month == 4 || month == 6 || month == 9 || month == 11)
 }
 else if (month == 2)
 {
-    Console.WriteLine(28);
+    if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))
+    {
+        Console.WriteLine(29);
+    }
+    else
+    {
+        Console.WriteLine(28);
+    }
 }
 
