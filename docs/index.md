@@ -83,10 +83,28 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 
 1. Fork the repository [https://github.com/sarustamyan/technolab-csharp](https://github.com/sarustamyan/technolab-scharp) (see [https://docs.github.com/en/get-started/quickstart/fork-a-repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for help)
 2. Checkout the branch `master`
-3. Edit `docs/index.md` to add yourself to the list of participants under the section "Participants".	
-4. Create a pull request with the changes ([https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork))
+3. Edit `docs/index.md` to add yourself to the list of participants under the section "Participants".
+4. Commit and push your changes to the forked repository ([https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/))
+5. Create a pull request with the changes ([https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork))
 
-## Lesson 3 - Arrays
+## Lesson 3 - Loop Practice
+
+### Home Assignments
+
+1. Print the biggest number from the range 1 to 1000 which is devisible by 16 **and** whose last digit is 4
+2. Print all the numbers from the range 10 to 99 whose sum of the digits is greater than 14. I.e. 69 (6 + 9 > 14), 78, 79, 87 etc.
+3. Print all the numbers from the range 10 to 99 which are divisible by all their digits (beware of divisions by 0). I.e. 11 (11 % 1 = 0), 12 (12 % 1 = 0, 12 % 2 == 0), 15 (15 % 1 == 0, 15 % 5 == 0), 22, 24, etc. Note that 13 and 14 should be skipped as 13 % 3 != 0 and 14 % 4 != 0 and so on. 
+4. Print all the numbers from the range 1 to 1000 that are perfect squares, i.e. 1, 4, 9, 16, etc. 
+5. Print the sum of all the numbers from Task No.4.
+6. Print the factorial of a given number ([https://en.wikipedia.org/wiki/Factorial](https://en.wikipedia.org/wiki/Factorial))
+7. For a given odd integer number `n` draw an arrowhead on-screen using the `Console.WriteLine()` function like it's shown on the image:
+
+![arrows](https://i.imgur.com/pNQT2Xp.png)
+
+The number `n` represents the number of asterisks in the bottom level of the arrowhead. Your arrowhead will have one asterisk character at the top level, three at the 2nd to top level, five at the 3rd level, and so on, until it reaches the bottom level. After the bottom level you should have three lines with a single asterisk to represent the trunk. Note that your arrowhead is NOT centered on the screen. The left hand side of the base of the tree will line up with the left hand side of the console window.
+
+
+## Lesson 4 - Arrays
 
 ### In Class
 
