@@ -85,3 +85,22 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 2. Checkout the branch `master`
 3. Edit `docs/index.md` to add yourself to the list of participants under the section "Participants".	
 4. Create a pull request with the changes ([https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork))
+
+## Lesson 3 - Arrays
+
+### In Class
+
+1. Arrays, high-level overview.
+2. String representations. ASCII vs Unicode.
+
+**Coding**
+
+1. Find the max item of the array
+2. Convert a string to lowercase
+
+### Home Assignments
+
+1. Print "True" if the given string is a palindrome (i.e. if it reads the same both left-to-right and right-to-left), "False" otherwise. I.e. for "car" the program should print "False", whereas for "racecar" it should print "True".
+2. For a given string, find the number of words in it. I.e. for the string "There are only 10 types of people in the world: those who understand binary and those who don't." the answer should be 18. 
+3. Find the second smallest item of the array. You can assume there are no duplicates.
+4. For the given arrays `a1` and `a2`, find all the items that belong to both `a1` and `a2`.
