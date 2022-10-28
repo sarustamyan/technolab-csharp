@@ -78,14 +78,14 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 1. Calculate the sum of all the numbers from 1 to 100 that are a multiple of 3
 2. For the given number of iterations `n` calculate approximation of pi using the Leibniz formula: [https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80)](https://en.wikipedia.org/wiki/Leibniz_formula_for_%CF%80). *Side quest: watch a video on Newton's formula for pi: [https://www.youtube.com/watch?v=gMlf1ELvRzc](https://www.youtube.com/watch?v=gMlf1ELvRzc) *
 3. Print `true` if the given nubmer is a prime number
-4. Calculate the sum of all the prime numbers between 2 and 100 
+4. \* Calculate the sum of all the prime numbers between 2 and 100 
 
 **Git**
 
 1. Fork the repository [https://github.com/sarustamyan/technolab-csharp](https://github.com/sarustamyan/technolab-scharp) (see [https://docs.github.com/en/get-started/quickstart/fork-a-repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo) for help)
 2. Checkout the branch `master`
 3. Edit `docs/index.md` to add yourself to the list of participants under the section "Participants".
-4. Commit and push your changes to the forked repository ([https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/))
+4. Commit and push your changes to the forked repository ([https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git))
 5. Create a pull request with the changes ([https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork))
 
 ## Lesson 3 - Loop Practice
@@ -98,7 +98,7 @@ Samvel Arustamyan (samvel.arustamyan"shnik"gmail.com)
 4. Print all the numbers from the range 1 to 1000 that are perfect squares, i.e. 1, 4, 9, 16, etc. 
 5. Print the sum of all the numbers from Task No.4.
 6. Print the factorial of a given number ([https://en.wikipedia.org/wiki/Factorial](https://en.wikipedia.org/wiki/Factorial))
-7. For a given odd integer number `n` draw an arrowhead on-screen using the `Console.WriteLine()` function like it's shown on the image:
+7. \* For a given odd integer number `n` draw an arrowhead on-screen using the `Console.WriteLine()` function like it's shown on the image:
 
 ![arrows](https://i.imgur.com/pNQT2Xp.png)
 
@@ -122,4 +122,18 @@ The number `n` represents the number of asterisks in the bottom level of the arr
 1. Print "True" if the given string is a palindrome (i.e. if it reads the same both left-to-right and right-to-left), "False" otherwise. I.e. for "car" the program should print "False", whereas for "racecar" it should print "True".
 2. For a given string, find the number of words in it. I.e. for the string "There are only 10 types of people in the world: those who understand binary and those who don't." the answer should be 18. 
 3. Find the second smallest item of the array. You can assume there are no duplicates.
-4. For the given arrays `a1` and `a2`, find all the items that belong to both `a1` and `a2`.
+4. \* For the given arrays `a1` and `a2`, find all the items that belong to both `a1` and `a2`.
+
+
+## Lesson 5 - Array/Loop Practice
+
+### Home Assignments
+
+1. Print the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) sequence of a given number n. A nice video with an explanation: [https://www.youtube.com/watch?v=094y1Z2wpJg](https://www.youtube.com/watch?v=094y1Z2wpJg)
+2. [Rabbits and Fixes problem](https://www.engage-csedu.org/sites/default/files/Lab%207_Rabbits%20and%20Foxes.pdf)
+3. Encode a given string consisting of lowercase letters and spaces into a [Morse code](https://en.wikipedia.org/wiki/Morse_code) using the following convention:
+	* `.`: dit (short mark)
+	* `-`: dah (long mark)
+	* `|`: short gap (between letters)
+	* ` `  (space): medium gap (between words)
+4. \* Decode a given [Morse code](https://en.wikipedia.org/wiki/Morse_code) into the original string using the convention above. Use the [string.Split()](https://www.programiz.com/csharp-programming/library/string/split) method to split the code into chunks.
