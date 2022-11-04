@@ -36,7 +36,7 @@
 //}
 
 int sum = 0;
-for (int number = 1; number <= 100; number++);
+for (int number = 1; number <= 100; number++)
 {
     sum = sum + number;
 }
