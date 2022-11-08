@@ -137,3 +137,12 @@ The number `n` represents the number of asterisks in the bottom level of the arr
 	* `|`: short gap (between letters)
 	* ` `  (space): medium gap (between words)
 4. \* Decode a given [Morse code](https://en.wikipedia.org/wiki/Morse_code) into the original string using the convention above. Use the [string.Split()](https://www.programiz.com/csharp-programming/library/string/split) method to split the code into chunks.
+
+
+## Lesson 6 - Functions
+
+### Home Assignments
+
+1. [https://leetcode.com/problems/plus-one/](https://leetcode.com/problems/plus-one/)
+2. [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)
+3. [https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
