@@ -146,3 +146,10 @@ The number `n` represents the number of asterisks in the bottom level of the arr
 1. [https://leetcode.com/problems/plus-one/](https://leetcode.com/problems/plus-one/)
 2. [https://leetcode.com/problems/max-consecutive-ones/](https://leetcode.com/problems/max-consecutive-ones/)
 3. [https://leetcode.com/problems/length-of-last-word/](https://leetcode.com/problems/length-of-last-word/)
+
+## Lesson 7 - Recursion
+
+### Home Assignments
+
+1. Chocolate and Wrapper: [https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/](https://www.geeksforgeeks.org/puzzle-22-maximum-chocolates/)
+2. Climbing stairs: [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
