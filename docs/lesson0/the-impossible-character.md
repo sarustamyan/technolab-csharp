@@ -10,7 +10,7 @@ nav_order: 1
 
 Print "\\" to the console. I.e. your console window should look like this:
 
-![screenshot]({{ site.baseurl }}/assets/lesson0/homework1.jpg)
+![screenshot]({{ site.baseurl }}/assets/lesson0/backslash.jpg)
 
 <details class="text-grey-dk-000"> 
   <summary><strong>Hint 1:</strong></summary>

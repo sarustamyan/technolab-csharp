@@ -21,7 +21,7 @@ Console.Write(" ");
 
 and make the program output look like this:
 
-![screenshot]({{ site.baseurl }}/assets/lesson0/homework2.gif)
+![screenshot]({{ site.baseurl }}/assets/lesson0/progress-bar.gif)
 
 <details class="text-grey-dk-000"> 
   <summary><strong>Hint 1:</strong></summary>
