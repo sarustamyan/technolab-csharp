@@ -11,7 +11,7 @@ nav_order: 0
 * **[C# Programming for Absolute Beginners](https://www.goodreads.com/book/show/58230269-c-programming-for-absolute-beginners) by Radek Vystavěl**
 * [Illustrated C# 7](https://www.goodreads.com/book/show/36902257-illustrated-c-7) by Daniel Solis
 * [Microsoft Courses](https://dotnet.microsoft.com/en-us/learn/csharp). Good place to start is the interactive introductory [tutorials](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world) 
-* Code for home assignments in located at [https://github.com/sarustamyan/technolab-csharp](https://github.com/sarustamyan/technolab-csharp)
+* Code for home assignments and in class workshops in located at [https://github.com/sarustamyan/technolab-csharp-sources](https://github.com/sarustamyan/technolab-csharp-sources)
 
 ## Prerequisites
 

@@ -19,4 +19,4 @@ E.g. for the following input text: `what hath god wrought` the ouput should be:
 
 ".−−&nbsp;....&nbsp;.−&nbsp;−&nbsp;&nbsp;&nbsp;....&nbsp;.−&nbsp;−&nbsp;....&nbsp;&nbsp;&nbsp;−−.&nbsp;−−−&nbsp;−..&nbsp;&nbsp;&nbsp;.−−&nbsp;.−.&nbsp;−−−&nbsp;..−&nbsp;−−.&nbsp;....&nbsp;−&nbsp;"
 
-**\*\*\* Bonus Points:** Write a program to decode a string in Morse code back to plain text. (Use the [string.Split()](https://www.programiz.com/csharp-programming/library/string/split) method to split the encoded string into chunks). 
+**\*\* Bonus Points:** Write a program to decode a string in Morse code back to plain text. (Use the [string.Split()](https://www.programiz.com/csharp-programming/library/string/split) method to split the encoded string into chunks). 
