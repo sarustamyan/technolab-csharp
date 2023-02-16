@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-## Lesson 3 - Methods
+## Lesson 5 - Methods
 
 ### Objectives
 
@@ -21,6 +21,8 @@ has_toc: false
 3. Difference between passing parameters by value vs by referenece.
 
 4. Learn how to read and parse user input.
+
+5. **Side Quest:** Learn about HTTPS: [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html).
 
 ### Home Assignments
 

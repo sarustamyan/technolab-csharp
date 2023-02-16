@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-## Lesson 3 - Arrays
+## Lesson 4 - Arrays
 
 ### Objectives
 
