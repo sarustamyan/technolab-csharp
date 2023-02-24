@@ -47,234 +47,258 @@
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/diagonal.html",
     "relUrl": "/lesson6/diagonal.html"
   },"8": {
+    "doc": "Digits",
+    "title": "Digits",
+    "content": "Write recursive method which for a given integer n will return a list consisting of its digits. For example, for n = 123 the result should be [1, 2, 3] . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson8/digits.html",
+    "relUrl": "/lesson8/digits.html"
+  },"9": {
     "doc": "Duplicates",
     "title": "Duplicates",
     "content": "Write a metod that will remove the duplicates from a given list of integers. I.e. for the given list: [1, 2, 1, 5, 5, 7] it should return [1, 2, 5, 7] . Note: The original array should be left intact. Hint: The method to calculate the frequencies can be useful here. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/duplicates.html",
     "relUrl": "/lesson6/duplicates.html"
-  },"9": {
+  },"10": {
     "doc": "Elimination Game",
     "title": "Elimination Game",
     "content": "See https://leetcode.com/problems/find-the-winner-of-the-circular-game/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson7/elimination-game.html",
     "relUrl": "/lesson7/elimination-game.html"
-  },"10": {
+  },"11": {
     "doc": "Fibonacci Numbers",
     "title": "Fibonacci Numbers",
     "content": "For a give integer n calculate the n-th Fibonacci number. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson7/fibonacci.html",
     "relUrl": "/lesson7/fibonacci.html"
-  },"11": {
-    "doc": "Lesson 2 - Loops",
-    "title": "Lesson 2 - Loops",
-    "content": "Objectives . | Learn about character encoding (ASCII vs Unicode). ** Side Quest: Read about different types of Unicode encoding. | Understand code blocks and variable scope. | while loops: C# While Loop. | Print all the numbers from 1 to 20. | Refactor the “Progress Bar” solution using a while loop. | . | for loops: C# For Loop. | Calculate the sum of all the numbers from 1 to 100 | . | . Home Assignments . | Multiples Of 3 . | Sum Of Digits . | Perfect Squares . | Collatz Conjecture . | . ",
-    "url": "https://sarustamyan.github.io/technolab-csharp/lesson2/",
-    "relUrl": "/lesson2/"
   },"12": {
-    "doc": "Lesson 6 - Data Structures",
-    "title": "Lesson 6 - Data Structures",
-    "content": "Objectives . | Working with Lists . | Write a method to remove all odd numbers from the list of integers. | Side Quest: Take a peek at delegates and lambdas through List.RemoveAll(). Check out the source code of the method. | . | Jagged vs Multidimentional arrays. | Write a method to return the sum of all the elements in a given matrix. | . | Learn about Dictionaries and HashSets . | Write a method to calculate the frequencies of the items in a given array. I.e. for [1, 3, 1, 5, 5, 7] it should return [{1, 2}, {3, 1}, {5, 2}, {7, 1}] . | ** Side Quest: To learn about the internal workings of dictionaries check out this Wikipedia article: https://en.wikipedia.org/wiki/Hash_table . | . | . Home Assignments . | Watch a talk on recursion: https://www.youtube.com/watch?v=AfBqVVKg4GE . | Diagonal . | Lucky Numbers . | Duplicates . | ** Sudoku Validator . | . ",
-    "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/",
-    "relUrl": "/lesson6/"
-  },"13": {
     "doc": "Lesson 7 - Recursion",
     "title": "Lesson 7 - Recursion",
     "content": "Objectives . | Understand recursion . | Calculate the factorial of n . | Check if a string is a palyndrome recursively . | . | . Home Assignments . | Fibonacci numbers . | Beer and Bottles . | * Elimination Game . | ** Climbing Stairs . | *** Predict the Winner . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson7/",
     "relUrl": "/lesson7/"
+  },"13": {
+    "doc": "Lesson 2 - Loops",
+    "title": "Lesson 2 - Loops",
+    "content": "Objectives . | Learn about character encoding (ASCII vs Unicode). ** Side Quest: Read about different types of Unicode encoding. | Understand code blocks and variable scope. | while loops: C# While Loop. | Print all the numbers from 1 to 20. | Refactor the “Progress Bar” solution using a while loop. | . | for loops: C# For Loop. | Calculate the sum of all the numbers from 1 to 100 | . | . Home Assignments . | Multiples Of 3 . | Sum Of Digits . | Perfect Squares . | Collatz Conjecture . | . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson2/",
+    "relUrl": "/lesson2/"
   },"14": {
-    "doc": "Lesson 1 - Types, Variables & Conditions",
-    "title": "Lesson 1 - Types, Variables &amp; Conditions",
-    "content": "Objectives . | Learn about variables: C# Variables. | Learn about C# basic types (int, double, bool) and strings: C# Data Types. | Learn about boolean operators (&amp;&amp;, ||, !) and expressions: C# Logical Operators. | Learn about the if statements and code blocks: C# If … Else. | . Home Assignments . | Max Value . | Days in a Month . | Learn to use the Git client integrated into Visual Studio: How Visual Studio makes version control easy with Git . | Bonus Points: Understand the core Git concepts underneath: Pro Git book | . | . ",
-    "url": "https://sarustamyan.github.io/technolab-csharp/lesson1/#lesson-1---types-variables--conditions",
-    "relUrl": "/lesson1/#lesson-1---types-variables--conditions"
+    "doc": "Lesson 8 - Recursion (Practice)",
+    "title": "Lesson 8 - Recursion (Practice)",
+    "content": ". | Find the max element of an array using recursion. | Reverse the string using recursion. | Find an element in a sorted array using binary search (via recursion) . | . Home Assignments . | Digits . | ** Permutations . | ** Subsets . | . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson8/",
+    "relUrl": "/lesson8/"
   },"15": {
-    "doc": "Lesson 1 - Types, Variables & Conditions",
-    "title": "Lesson 1 - Types, Variables & Conditions",
-    "content": " ",
-    "url": "https://sarustamyan.github.io/technolab-csharp/lesson1/",
-    "relUrl": "/lesson1/"
-  },"16": {
     "doc": "Lesson 4 - Arrays",
     "title": "Lesson 4 - Arrays",
     "content": "Objectives . | The new operator, high-level overview of how objects are stored in memory. | Learn about arrays: C# Arrays. | Find the max item of the array. | . | Strings as arrays of characters. | Convert a given string to lowercase. | Find how many spaces there are in a string. | . | . Home Assignments . | Last Positive . | Palindrome . | Caesar Cipher . | * Morse Code . | * Intersection . | ** Word Count . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson4/",
     "relUrl": "/lesson4/"
+  },"16": {
+    "doc": "Lesson 6 - Data Structures",
+    "title": "Lesson 6 - Data Structures",
+    "content": "Objectives . | Working with Lists . | Write a method to remove all odd numbers from the list of integers. | Side Quest: Take a peek at delegates and lambdas through List.RemoveAll(). Check out the source code of the method. | . | Jagged vs Multidimentional arrays. | Write a method to return the sum of all the elements in a given matrix. | . | Learn about Dictionaries and HashSets . | Write a method to calculate the frequencies of the items in a given array. I.e. for [1, 3, 1, 5, 5, 7] it should return [{1, 2}, {3, 1}, {5, 2}, {7, 1}] . | ** Side Quest: To learn about the internal workings of dictionaries check out this Wikipedia article: https://en.wikipedia.org/wiki/Hash_table . | . | . Home Assignments . | Watch a talk on recursion: https://www.youtube.com/watch?v=AfBqVVKg4GE . | Diagonal . | Lucky Numbers . | Duplicates . | ** Sudoku Validator . | . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/",
+    "relUrl": "/lesson6/"
   },"17": {
+    "doc": "Lesson 1 - Types, Variables & Conditions",
+    "title": "Lesson 1 - Types, Variables &amp; Conditions",
+    "content": "Objectives . | Learn about variables: C# Variables. | Learn about C# basic types (int, double, bool) and strings: C# Data Types. | Learn about boolean operators (&amp;&amp;, ||, !) and expressions: C# Logical Operators. | Learn about the if statements and code blocks: C# If … Else. | . Home Assignments . | Max Value . | Days in a Month . | Learn to use the Git client integrated into Visual Studio: How Visual Studio makes version control easy with Git . | Bonus Points: Understand the core Git concepts underneath: Pro Git book | . | . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson1/#lesson-1---types-variables--conditions",
+    "relUrl": "/lesson1/#lesson-1---types-variables--conditions"
+  },"18": {
+    "doc": "Lesson 1 - Types, Variables & Conditions",
+    "title": "Lesson 1 - Types, Variables & Conditions",
+    "content": " ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson1/",
+    "relUrl": "/lesson1/"
+  },"19": {
     "doc": "Lesson 0 - Introduction",
     "title": "Lesson 0 - Introduction",
     "content": "Objectives . | Create and run your first console application. Follow the steps in Tutorial: Create a simple C# console app in Visual Studio (part 1 of 2). You can stop at the “Add code to create a calculator” step for now (don’t worry, we’ll get there gradually). | Learn to use Console.WriteLine() with arithmetic and string operations. | Learn how to debug the code. Refer to Tutorial: Learn to debug C# code using Visual Studio for help. | Follow the execution path step by step. | Set a breakpoint. | Get familiar with the “Watch” window. | . | Learn how to fix compilation and runtime errors. | . Home Assignments . | The “Impossible” Character . | Progress Bar . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson0/",
     "relUrl": "/lesson0/"
-  },"18": {
+  },"20": {
     "doc": "Lesson 3 - Loops (Practice)",
     "title": "Lesson 3 - Loops (Practice)",
     "content": "Objectives . | Print true if the given nubmer is a prime number. | Nested loops. | For a give number n print the sum of all prime number in the range [2..n] | . | Some fun with binary arithmetic. What’s the output of the statement below? . Console.WriteLine(0.1 + 0.2 == 0.3); . Explanation: StackOverflow . *** Side Quest: Read about how double and decimal types are stored in binary: Binary floating point and .NET and Decimal floating point in .NET . | . Home Assignments . | Approximation of π . | * Rabbits &amp; Foxes . | * Arrowhead . | * Progress Bar - 2 . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson3/",
     "relUrl": "/lesson3/"
-  },"19": {
+  },"21": {
     "doc": "Lesson 5 - Methods",
     "title": "Lesson 5 - Methods",
     "content": "Objectives . | Declare and call methods: C# Methods . | Pass parameters to the methods: C# Method Parameters. | Make a method int DaysInMonth(int month, int year) out of the code from Days in a Month challenge. | Write a method double Average(int[] items) which should return the average of all numbers in a given array. | . | Difference between passing parameters by value vs by referenece. | Learn how to read and parse user input. | Side Quest: Learn about HTTPS: The First Few Milliseconds of an HTTPS Connection. | . Home Assignments . | Max Consecutive Ones . | Student Attendance Record . | ** Letter Frequency . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson5/",
     "relUrl": "/lesson5/"
-  },"20": {
+  },"22": {
     "doc": "Home",
     "title": "Welcome to the Techolab C# course!",
     "content": " ",
     "url": "https://sarustamyan.github.io/technolab-csharp/#welcome-to-the-techolab-c-course",
     "relUrl": "/#welcome-to-the-techolab-c-course"
-  },"21": {
+  },"23": {
     "doc": "Home",
     "title": "Resources",
     "content": ". | C# Programming for Absolute Beginners by Radek Vystavěl | Illustrated C# 7 by Daniel Solis | Microsoft Courses. Good place to start is the interactive introductory tutorials | Code for home assignments and in class workshops in located at https://github.com/sarustamyan/technolab-csharp-sources | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/#resources",
     "relUrl": "/#resources"
-  },"22": {
+  },"24": {
     "doc": "Home",
     "title": "Prerequisites",
     "content": ". | Development Environment . | Download and install Visual Studio Community Edition. Make sure to select the “.NET desktop development” option: . | Use https://dotnetfiddle.net/ whenever VS is not available. | . | Source Control . | Create a Github account. | . | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/#prerequisites",
     "relUrl": "/#prerequisites"
-  },"23": {
+  },"25": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "https://sarustamyan.github.io/technolab-csharp/",
     "relUrl": "/"
-  },"24": {
+  },"26": {
     "doc": "Intersection",
     "title": "Intersection",
     "content": "For the given arrays of integers a1 and a2, find all the items that belong to both a1 and a2. E.g. for the following input: . var a1 = new[] { 1, 5, 10, 8 }; var a2 = new[] { 6, 8, 17, 4, 1 }; . The output should be: 1, 8 . Hint 1: This is where nested loops come in handy. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson4/intersection.html",
     "relUrl": "/lesson4/intersection.html"
-  },"25": {
+  },"27": {
     "doc": "Last Positive",
     "title": "Last Positive",
     "content": "Print the last positive number in a given array of integers. E.g. for [1, 3, 5, -1, 6] the output should be 6, whereas for [1, 3, 5, -1, -6] the output should be 5 . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson4/last-positive.html",
     "relUrl": "/lesson4/last-positive.html"
-  },"26": {
+  },"28": {
     "doc": "Letter Frequency",
     "title": "Max Consecutive Ones",
     "content": "Find the letter frequency of the Armenian alphabet in Raffi’s “Samvel” novel. For that you’ll need to: . | Download the novel here. | Google how to read the contents of the file (note the encoding of the file you’ve downloaded). | Create an array of integers, items of which will hold the counters for frequencies of the corresponding letter (convert the letters to lowercase first) | Iterate over the text and increment the correct counter when encountering a letter. | Return the resulting array. | . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson5/letter-frequency.html#max-consecutive-ones",
     "relUrl": "/lesson5/letter-frequency.html#max-consecutive-ones"
-  },"27": {
+  },"29": {
     "doc": "Letter Frequency",
     "title": "Letter Frequency",
     "content": " ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson5/letter-frequency.html",
     "relUrl": "/lesson5/letter-frequency.html"
-  },"28": {
+  },"30": {
     "doc": "Lucky Numbers",
     "title": "Lucky Numbers",
     "content": "See https://leetcode.com/problems/lucky-numbers-in-a-matrix/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/lucky-numbers.html",
     "relUrl": "/lesson6/lucky-numbers.html"
-  },"29": {
+  },"31": {
     "doc": "Max Consecutive Ones",
     "title": "Max Consecutive Ones",
     "content": "See https://leetcode.com/problems/max-consecutive-ones/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson5/max-consecutive-ones.html",
     "relUrl": "/lesson5/max-consecutive-ones.html"
-  },"30": {
+  },"32": {
     "doc": "Max Value",
     "title": "Max Value",
     "content": "Print the biggest number out of the given int variables a, b and c . Example: . For the given values . int a = 10; int b = 15; int c = 8; . The output should print: 15 . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson1/max-value.html",
     "relUrl": "/lesson1/max-value.html"
-  },"31": {
+  },"33": {
     "doc": "Morse Code",
     "title": "Morse Code",
     "content": "Encode a given string consisting of lowercase letters and spaces into a Morse code using the following convention: . | . - dit (short mark) | - - dah (long mark) | “ ” (1 space)- short gap (between letters) | “   ” (3 spaces) - medium gap (between words) | . E.g. for the following input text: what hath god wrought the ouput should be: . ”.−− …. .− −   …. .− − ….   −−. −−− −..   .−− .−. −−− ..− −−. …. − ” . ** Bonus Points: Write a program to decode a string in Morse code back to plain text. (Use the string.Split() method to split the encoded string into chunks). ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson4/morse-code.html",
     "relUrl": "/lesson4/morse-code.html"
-  },"32": {
+  },"34": {
     "doc": "Multiples Of 3",
     "title": "Multiples Of 3",
     "content": "Calculate the sum of all the numbers from 1 to 100 that are a multiple of 3 . Hint 1: You can check each number if it's a multiple of 3 as you go or you can skip over the ones that you don't need. The result will be the same. Is one solution better than the other? ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson2/multiples-of-3.html",
     "relUrl": "/lesson2/multiples-of-3.html"
-  },"33": {
+  },"35": {
     "doc": "Palindrome",
     "title": "Palindrome",
     "content": "Print “true” if the given string is a palindrome (i.e. if it reads the same both left-to-right and right-to-left), “false” otherwise. E.g. for “car” the program should print “false”, whereas for “racecar” it should print “true”. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson4/palindrome.html",
     "relUrl": "/lesson4/palindrome.html"
-  },"34": {
+  },"36": {
     "doc": "Perfect Squares",
     "title": "Perfect Squares",
     "content": "Print all the numbers from the range 1 to 1000 that are perfect squares, i.e. 1, 4, 9, 16, etc. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson2/perfect-squares.html",
     "relUrl": "/lesson2/perfect-squares.html"
-  },"35": {
+  },"37": {
+    "doc": "Permutations",
+    "title": "Permutations",
+    "content": "See https://leetcode.com/problems/permutations/ . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson8/permutations.html",
+    "relUrl": "/lesson8/permutations.html"
+  },"38": {
     "doc": "Approximation of π",
     "title": "Approximation of π",
     "content": "For the given number of iterations n calculate approximation of π using the Leibniz formula . Note that Leibniz’s formula converges extremely slowly, so you’ll need a lot of iterations. How many iterations till you get the 5th decimal point correctly? . * Side quest: Watch a video on Newton’s formula for π: https://www.youtube.com/watch?v=gMlf1ELvRzc . ** Bonus Points: Try out other formulas for π approximation . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson3/pi-approximation.html",
     "relUrl": "/lesson3/pi-approximation.html"
-  },"36": {
+  },"39": {
     "doc": "Predict the Winner",
     "title": "Predict the Winner",
     "content": "See https://leetcode.com/problems/predict-the-winner/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson7/predict-winner.html",
     "relUrl": "/lesson7/predict-winner.html"
-  },"37": {
+  },"40": {
     "doc": "Progress Bar - 2",
     "title": "Progress Bar - 2",
     "content": "Change your Progress Bar program from Lesson 0 to also print the percentages along with the progress like this: . Hint 1: You can use the String.PadLeft() or String.PadRight() methods to insert as many spaces as you need. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson3/progress-bar-2.html",
     "relUrl": "/lesson3/progress-bar-2.html"
-  },"38": {
+  },"41": {
     "doc": "Progress Bar",
     "title": "Progress Bar",
     "content": "Simulate a progress bar for a hypothetical task consisting of 20 steps. Take the following code as a starting point: . Console.CursorVisible = false; Console.WriteLine(\"Task in progress...\"); Console.BackgroundColor = ConsoleColor.White; Console.Write(\" \"); Thread.Sleep(200); Console.Write(\" \"); . and make the program output look like this: . Hint 1: Each step can be represented by a space (\" \") character printed in the console with a white background. So you need to print 20 spaces. The line Console.BackgroundColor = ConsoleColor.White; changes the background to white. Notice that it doesn't affect the text printed prior to that statement. Hint 2: Notice the Thread.Sleep(200); line above. This is needed to slow down the animation. The 200 represents the number of miliseconds to wait until proceeding to the next statement. You can experiment with that number (or remove the line completly) to see how it affects the output. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson0/progress-bar.html",
     "relUrl": "/lesson0/progress-bar.html"
-  },"39": {
+  },"42": {
     "doc": "Rabbits And Foxes",
     "title": "Rabbits &amp; Foxes",
     "content": "The task is to calculate the populations of foxes and rabbits who live within a certain area of land, as that number changes from year to year. The rabbit and fox populations are controlled by the following formulas: . rabbitsNext = rabbitsPrev + rabbitsPrev * rabbitBirthRate - rabbitsPrev * foxesPrev * foxKillRate . foxesNext = foxesPrev + foxesPrev * rabbitsPrev * foxBirthRate - foxesPrev * foxDeathRate . where . | rabbitsNext is the rabbit population for the next year | rabbitsPrev is the rabbit population of the previous year | rabbitBirthRate is the birth rate of rabbits | foxKillRate is the death rate of rabbits, dependent on # of foxes | foxesNext is the fox population for the next year | foxesPrev is the fox population of the previous year | foxBirthRate is the birth rate of foxes, dependent on # of rabbits | foxDeathRate death rate of foxes, caused naturally | . The task is for the given initial populations and growth parameters and number of years, calculate the year-by-year changes. Note: Since the fox and rabbit populations should be integers, so you will have convert the result of the calculation to int. Example: for the following input values: . int rabbitsPrev = 100; double rabbitBirthRate = 0.2; double foxKillRate = 0.005; int foxesPrev = 10; double foxBirthRate = 0.001; double foxDeathRate = 0.2; . the output should look like this: . Year 0. Rabbits: 100, Foxes: 10 Year 1. Rabbits: 115, Foxes: 9 Year 2. Rabbits: 132, Foxes: 8 Year 3. Rabbits: 153, Foxes: 7 Year 4. Rabbits: 178, Foxes: 6 Year 5. Rabbits: 208, Foxes: 5 Year 6. Rabbits: 244, Foxes: 5 Year 7. Rabbits: 286, Foxes: 5 Year 8. Rabbits: 336, Foxes: 5 Year 9. Rabbits: 394, Foxes: 5 Year 10. Rabbits: 462, Foxes: 5 . What happens when you increase the number of years? . Hint 1: Be sure that your program doesn’t allow for negative populations. If you start with 1 rabbit and 1000 foxes, the next year there should be 0 rabbits instead of -3 rabbits. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson3/rabbits-and-foxes.html#rabbits--foxes",
     "relUrl": "/lesson3/rabbits-and-foxes.html#rabbits--foxes"
-  },"40": {
+  },"43": {
     "doc": "Rabbits And Foxes",
     "title": "Rabbits And Foxes",
     "content": " ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson3/rabbits-and-foxes.html",
     "relUrl": "/lesson3/rabbits-and-foxes.html"
-  },"41": {
+  },"44": {
     "doc": "Student Attendance Record",
     "title": "Student Attendance Record",
     "content": "See https://leetcode.com/problems/student-attendance-record-i/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson5/student-attendance-record.html",
     "relUrl": "/lesson5/student-attendance-record.html"
-  },"42": {
+  },"45": {
+    "doc": "Subsets",
+    "title": "Subsets",
+    "content": "See https://leetcode.com/problems/subsets/ . ",
+    "url": "https://sarustamyan.github.io/technolab-csharp/lesson8/subsets.html",
+    "relUrl": "/lesson8/subsets.html"
+  },"46": {
     "doc": "Sudoku Validator",
     "title": "Sudoku Validator",
     "content": "See https://leetcode.com/problems/valid-sudoku/ . ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson6/sudoku-validator.html",
     "relUrl": "/lesson6/sudoku-validator.html"
-  },"43": {
+  },"47": {
     "doc": "Sum Of Digits",
     "title": "Sum Of Digits",
     "content": "Print all the numbers from the range 10 to 99 whose sum of the digits is greater than 14. I.e. 69 (6 + 9 &gt; 14), 78, 79, 87 etc. ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson2/sum-of-digits.html",
     "relUrl": "/lesson2/sum-of-digits.html"
-  },"44": {
+  },"48": {
     "doc": "The \"Impossible\" Character",
     "title": "The “Impossible” Character",
     "content": "Print “\\” to the console. I.e. your console window should look like this: . Hint 1: Pay attention to the syntax highlighting of the code. Notice something weird? Hint 2: The error message doesn't say much, but maybe there are people online that faced the same problem before? ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson0/the-impossible-character.html#the-impossible-character",
     "relUrl": "/lesson0/the-impossible-character.html#the-impossible-character"
-  },"45": {
+  },"49": {
     "doc": "The \"Impossible\" Character",
     "title": "The \"Impossible\" Character",
     "content": " ",
     "url": "https://sarustamyan.github.io/technolab-csharp/lesson0/the-impossible-character.html",
     "relUrl": "/lesson0/the-impossible-character.html"
-  },"46": {
+  },"50": {
     "doc": "Word Count",
     "title": "Word Count",
     "content": "Find the number of words in a given string. You can assume the string contains only letters and spaces. E.g. for the string It works on my machine the answer should be 5. Hint 1: Some texts might have more than one space between two words. ",
