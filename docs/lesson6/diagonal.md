@@ -8,7 +8,7 @@ nav_order: 1
 
 # Diagonal
 
-Write a metod that returns the items in the diagonal of a given square matrix of integers. See the signature of the method on [GitHub](https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Lesson6/Homework/Diagonal/Program.cs) 
+Write a metod that returns the items in the diagonal of a given square matrix of integers. See the signature of the method on [GitHub](https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Homework/Lesson6/Diagonal/Program.cs) 
 
 Example: for the following matrix:
 

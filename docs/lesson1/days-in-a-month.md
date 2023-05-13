@@ -8,7 +8,7 @@ nav_order: 2
 
 # Days in a Month
 
-Consider the code for printing the number of days in a given month for a given year: [https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Lesson1/Homework/DaysInAMonth/Program.cs](https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Lesson1/Homework/DaysInAMonth/Program.cs)
+Consider the code for printing the number of days in a given month for a given year: [https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Homework/Lesson1/DaysInAMonth/Program.cs](https://github.com/sarustamyan/technolab-csharp-sources/blob/master/Homework/Lesson1/DaysInAMonth/Program.cs)
 
 Is it going to work correctly for any month/year combination? Find the bug in the code and fix it.
 
