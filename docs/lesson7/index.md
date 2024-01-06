@@ -14,7 +14,7 @@ has_toc: false
 
    * Calculate the factorial of `n`
 
-   * Check if a string is a palyndrome recursively
+   * Check if a string is a palindrome recursively
 
 ### Home Assignments
 

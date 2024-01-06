@@ -6,7 +6,7 @@ has_children: false
 nav_order: 3
 ---
 
-# Max Consecutive Ones
+# Letter Frequency
 
 Find the letter frequency of the Armenian alphabet in Raffi's "Samvel" novel. For that you'll need to:
 

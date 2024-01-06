@@ -12,7 +12,7 @@ The task is to calculate the populations of foxes and rabbits who live within a 
 
 `rabbitsNext = rabbitsPrev + (int)Math.Round(rabbitsPrev * rabbitBirthRate) - (int)Math.Round(rabbitsPrev * foxesPrev * foxKillRate)`
 
-`foxesNext = foxesPrev + (int)Math.Round(foxesPrev * rabbitsPrev) * (int)Math.Round(foxBirthRate - foxesPrev * foxDeathRate)`
+`foxesNext = foxesPrev + (int)Math.Round(foxesPrev * rabbitsPrev) * (int)Math.Round(foxBirthRate * foxesPrev * foxDeathRate)`
 
 where
 
