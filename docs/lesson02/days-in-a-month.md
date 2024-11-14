@@ -3,7 +3,7 @@ layout: default
 title: Days in a Month
 parent: Lesson 2 - Conditions (Practice)
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
 # Days in a Month

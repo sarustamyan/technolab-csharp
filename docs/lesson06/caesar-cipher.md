@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Caesar Cipher
-parent: Lesson 5 - Arrays
+parent: Lesson 6 - Arrays (Practice)
 has_children: false
-nav_order: 3
+nav_order: 1
 ---
 
 # Caesar Cipher
@@ -18,5 +18,3 @@ var shift = 3;
 ```
 
 The program should ouput `xqqxzhxqlkzb`
-
-

@@ -10,6 +10,8 @@ has_toc: false
 
 ### Objectives
 
+1. Convert a given string to lowercase. 
+
 1. Some fun with binary arithmetic. What's the output of the statement below?
 
    ``` csharp
@@ -24,9 +26,8 @@ has_toc: false
 
 ### Home Assignments
 
+1. [Caesar Cipher]({% link lesson06/caesar-cipher.md %})
+
 1. \* [Intersection]({% link lesson06/intersection.md %})
 
 1. \* [Morse Code]({% link lesson06/morse-code.md %})
-
-
-

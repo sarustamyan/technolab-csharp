@@ -3,7 +3,7 @@ layout: default
 title: Morse Code
 parent: Lesson 6 - Arrays (Practice)
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Morse Code

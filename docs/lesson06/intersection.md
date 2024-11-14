@@ -3,7 +3,7 @@ layout: default
 title: Intersection
 parent: Lesson 6 - Arrays (Practice)
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Intersection

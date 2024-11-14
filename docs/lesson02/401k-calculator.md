@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 401k Calculator
-parent: Lesson 1 - Types, Variables & Conditions
+parent: Lesson 2 - Conditions (Practice)
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # 401k Calculator

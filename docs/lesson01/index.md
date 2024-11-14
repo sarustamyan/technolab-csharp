@@ -22,9 +22,9 @@ has_toc: false
 
 1. [Max Value]({% link lesson01/max-value.md %})
 
-1. [401k Calculator]({% link lesson01/401k-calculator.md %})
+1. [Grades]({% link lesson01/grades.md %})
 
-1. [Income Tax Calculator]({% link lesson01/income-tax-calculator.md %})
+1. \* [Minutes]({% link lesson01/minutes.md %})
 
 1. Learn to use the Git client integrated into Visual Studio: [How Visual Studio makes version control easy with Git](https://learn.microsoft.com/en-us/visualstudio/version-control/git-with-visual-studio?view=vs-2022)
 
