@@ -10,19 +10,17 @@ has_toc: false
 
 ### Objectives
 
+1. Software development processes
+
+   * Waterfall vs Scrum
+
+   * Agile manifesto ([https://agilemanifesto.org](https://agilemanifesto.org))
+
+   * Test Driven Development (TDD) 
+
+   * Pair programming
+
 1. Convert a given string to lowercase. 
-
-1. Some fun with binary arithmetic. What's the output of the statement below?
-
-   ``` csharp
-   Console.WriteLine(0.1 + 0.2 == 0.3);
-   ```
-
-   ![WAT](https://i.kym-cdn.com/photos/images/original/000/173/576/Wat8.jpg){:width="300px"}   
-   
-   **Explanation:** [StackOverflow](https://stackoverflow.com/a/618596/1695009)
-   
-   **\*\*\* Side Quest:** Read about how `double` and `decimal` types are stored in binary: [Binary floating point and .NET](https://csharpindepth.com/Articles/FloatingPoint) and [Decimal floating point in .NET](https://csharpindepth.com/Articles/Decimal)
 
 ### Home Assignments
 

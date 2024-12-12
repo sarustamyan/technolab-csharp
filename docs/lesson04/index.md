@@ -10,7 +10,7 @@ has_toc: false
 
 ### Objectives  
 
-1. Print `true` if the given nubmer is a prime number.
+1. Print `true` if the given number is a prime number.
 
 1. Nested loops.
 
